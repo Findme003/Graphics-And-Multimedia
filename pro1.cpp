@@ -3,8 +3,7 @@
 #include<graphics.h>
 #include<math.h>
 #define xr 320
-#define yr 240 void main()
-{
+#define yr 240 void main(){
 int x=520,y=240,xp=0,yp=0; 
 double ang;
 int gd=DETECT,gm,errorcode; 

@@ -18,7 +18,7 @@ if(abs(dx)>abs(dy))
 {
 steps=abs(dx);
 }
-Else
+else
 {
 steps=abs(dy);
 xinc=dx/steps;
